@@ -1,0 +1,68 @@
+{
+  "admins": ["RwyyO7ga36ZibQipglp9QwZdQLI2"],
+  "products": {
+    "2513f5d8-3c50-42d9-bed7-20c631f93d60": {
+      "category": "Female",
+      "description": "This jacket has high-contrast trimming detail.",
+      "id": "2513f5d8-3c50-42d9-bed7-20c631f93d60",
+      "image": "http://res.cloudinary.com/dih3wemer/image/upload/v1696622837/ikopic4gjp2mxmmg9nqe.png",
+      "options": ["XS", "S", "M", "L", "XL"],
+      "price": 50,
+      "title": "Trim Jacket"
+    },
+    "2848b606-3b34-4523-9ae4-eccd089f2536": {
+      "category": "Female",
+      "description": "This is a stretch biscos dress",
+      "id": "2848b606-3b34-4523-9ae4-eccd089f2536",
+      "image": "http://res.cloudinary.com/dih3wemer/image/upload/v1696625156/uefgxsxdponkbntp5kge.png",
+      "options": ["XS", "S", "M", "L", "XL"],
+      "price": 10,
+      "title": "Stretch Discos Dress"
+    },
+    "414abbc3-9d71-42ed-92cd-3643b5c23275": {
+      "category": "Female",
+      "description": "This is a light sweater.",
+      "id": "414abbc3-9d71-42ed-92cd-3643b5c23275",
+      "image": "http://res.cloudinary.com/dih3wemer/image/upload/v1696623316/ggwl3oz9r2jbcaypea0g.png",
+      "options": ["XS", "S", "M", "L", "XL"],
+      "price": 20,
+      "title": "Cashmere Sweater"
+    },
+    "6300f9c5-7115-49c6-9632-d2010686ac80": {
+      "category": "Female",
+      "description": "This is a gold cotton tweed shorts",
+      "id": "6300f9c5-7115-49c6-9632-d2010686ac80",
+      "image": "http://res.cloudinary.com/dih3wemer/image/upload/v1696625060/ntyvmzgagmhiawkwkizg.png",
+      "options": ["XS", "S", "M", "L", "XL"],
+      "price": 20,
+      "title": "Gold Cotton Tweed Shorts"
+    },
+    "6ac282f2-c91d-4981-9e46-d7f3d630d0cf": {
+      "category": "Female",
+      "description": "This is a sweat shirt made using cotton. \nIt keeps you warm in late Fall and Winter.",
+      "id": "6ac282f2-c91d-4981-9e46-d7f3d630d0cf",
+      "image": "http://res.cloudinary.com/dih3wemer/image/upload/v1696622223/hog7srg2uinkdzarxrhc.png",
+      "options": ["XS", "S", "M", "L", "XL"],
+      "price": 30,
+      "title": "Cotton Sweat Shirt (pink colour)"
+    },
+    "9e23dc46-ab52-4d82-8c86-ff4084c88b8d": {
+      "category": "Female",
+      "description": "This is a gold cotton tweed dress",
+      "id": "9e23dc46-ab52-4d82-8c86-ff4084c88b8d",
+      "image": "http://res.cloudinary.com/dih3wemer/image/upload/v1696625115/qb6q0e35dt8yhn1cvsct.png",
+      "options": ["XS", "S", "M", "L", "XL"],
+      "price": 20,
+      "title": "Gold Cotton Tweed Dress"
+    },
+    "c6b83595-37e6-4972-bc23-6f06950d0709": {
+      "category": "Male",
+      "description": "This is a cotton sweat shirt.",
+      "id": "c6b83595-37e6-4972-bc23-6f06950d0709",
+      "image": "http://res.cloudinary.com/dih3wemer/image/upload/v1696623567/qjsxbbbxxyz7ya9v71st.png",
+      "options": ["XS", "S", "M", "L", "XL"],
+      "price": 15,
+      "title": "Cotton Sweat Shirt (black colour)"
+    }
+  }
+}
